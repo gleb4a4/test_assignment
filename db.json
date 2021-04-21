@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "writer@mail.com",
+      "password": "123456",
+      "role": "writer"
+    },
+    {
+      "id": 2,
+      "login": "reader@mail.com",
+      "password": "123456",
+      "role": "reader"
+    }
+  ],
+  "posts": [
+    {
+      "title": "qqqqqqqqqqqqqq",
+      "description": "qqqqqqqqqqqqqqqqqqqqqqq",
+      "createdAt": "2021-04-21T22:24:03.831Z",
+      "updatedAt": "2021-04-21T22:24:03.831Z",
+      "id": 15,
+      "claps": 1
+    },
+    {
+      "title": "qqqqqqqqqqqqq",
+      "description": "qqqqqqqqqqqqqqqqqqqqqqqqqq",
+      "createdAt": "2021-04-21T22:24:10.352Z",
+      "updatedAt": "2021-04-21T22:24:10.352Z",
+      "id": 16,
+      "claps": 1
+    },
+    {
+      "title": "ewqeqwe123",
+      "description": "qweqqweqwe123",
+      "createdAt": "2021-04-21T22:26:07.510Z",
+      "updatedAt": "2021-04-21T22:28:03.495Z",
+      "id": 17,
+      "claps": 4
+    },
+    {
+      "title": "qweqweq",
+      "description": "eqeqweewqqq",
+      "createdAt": "2021-04-21T22:26:11.447Z",
+      "updatedAt": "2021-04-21T22:26:11.447Z",
+      "id": 18,
+      "claps": 7
+    }
+  ]
+}
